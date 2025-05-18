@@ -1,0 +1,19 @@
+[Server]
+LogRequests = true
+
+[Database]
+Host = "localhost"
+Port = 5432
+User = "postgres"
+Password = ""
+DBName = "sbrw"
+
+[Game]
+IP = "localhost"
+Port = 8080
+
+[Freeroam]
+Port = 9999
+
+[XMPP]
+Port = 5222
